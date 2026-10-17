@@ -11,14 +11,6 @@ A 7-page Power BI dashboard that analyses crowding, passenger demand, train oper
 3. Which stations combine heavy footfall, crowding, and fare-evasion risk?
 4. Where is enforcement concentrated, and where is revenue being lost?
 
-## Key Findings
-
-<!-- Pull these from your Findings page. Use real numbers. -->
-- [FILL: e.g. Slow services run at X% of rated capacity during peak vs Y% off-peak]
-- [FILL: e.g. Peak hours carry X% of passengers but only Y% of scheduled trains]
-- [FILL: e.g. Top 3 risk stations: A, B, C, driven mainly by crowding / ticketless travel]
-- [FILL: recommendation, e.g. add N peak slow services between 8-10 AM or shift enforcement to station X]
-
 ## Dashboard Pages
 
 | Page | What it answers | Main visuals |
